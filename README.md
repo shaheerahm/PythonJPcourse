@@ -1,5 +1,5 @@
 # Data Science Course by Jawan Pakistan
-## Former name Python Course by Jawan Pakistan
+### Extended from Python Course by Jawan Pakistan
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/shaheerahm/PythonJPcourse?logo=github&style=plastic)
 
